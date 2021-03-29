@@ -1,0 +1,12 @@
+c:\users\pc\documents\visual studio 2012\Projects\prj_Disques\prj_Disques\bin\Debug\prj_Disques.exe
+c:\users\pc\documents\visual studio 2012\Projects\prj_Disques\prj_Disques\bin\Debug\prj_Disques.pdb
+c:\users\pc\documents\visual studio 2012\Projects\prj_Disques\prj_Disques\obj\Debug\prj_Disques.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\prj_Disques\prj_Disques\obj\Debug\prj_Disques.exe
+c:\users\pc\documents\visual studio 2012\Projects\prj_Disques\prj_Disques\obj\Debug\prj_Disques.pdb
+C:\Users\Amine\Downloads\prj_Disques\prj_Disques\prj_Disques\obj\Debug\prj_Disques.exe
+C:\Users\Amine\Downloads\prj_Disques\prj_Disques\prj_Disques\obj\Debug\prj_Disques.pdb
+C:\Users\Amine\Downloads\prj_Disques\prj_Disques\prj_Disques\bin\Debug\prj_Disques.exe
+C:\Users\Amine\Downloads\prj_Disques\prj_Disques\prj_Disques\bin\Debug\prj_Disques.pdb
+C:\Users\Amine\Downloads\prj_Disques\prj_Disques\prj_Disques\obj\Debug\prj_Disques.csprojResolveAssemblyReference.cache
+C:\Users\Amine\Downloads\prj_Disques_M (1)\prj_Disques_M\prj_Disques\prj_Disques\obj\Debug\prj_Disques.exe
+C:\Users\Amine\Downloads\prj_Disques_M (1)\prj_Disques_M\prj_Disques\prj_Disques\obj\Debug\prj_Disques.pdb
